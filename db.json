@@ -1,0 +1,228 @@
+{
+  "recipes": [
+    {
+      "id": 0,
+      "name": "vegan pizza",
+      "web": "https://veganhuggs.com/vegan-pizza-recipe/",
+      "description": "A mouth-watering vegan pizza with a twist",
+      "ingredients": [
+        "tomato",
+        "vegan mozzarella",
+        "mushrooms",
+        "red onion",
+        "pickes",
+        "truffle oil"
+      ],
+      "method": "For the pizza dough, you'll need warm water, fast-acting yeast, all-purpose flour, olive oil, sugar, salt, and garlic powder. Then top with all ingredients above.",
+      "url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=962&q=80"
+    },
+    {
+      "id": 1,
+      "name": "buda bowl salad",
+      "web": "https://www.loveandlemons.com/buddha-bowl-recipe/",
+      "description": "The ultimate nutrient-packed vegan buddha bowl!.",
+      "ingredients": [
+        "Fresh veggies",
+        "beans",
+        "sauerkraut",
+        "vibrant turmeric tahini sauce"
+      ],
+      "method": "Add all fresh veggies together with the beans. For the tahini sauce: add 1/3 cup of tahini with lemon juice and 1/4 teaspoon of turmeric, salt and pepper and a splash of water. Shake well and add to salad.",
+      "url": "https://cdn.loveandlemons.com/wp-content/uploads/2020/06/IMG_25462.jpg"
+    },
+    {
+      "id": 2,
+      "name": "creamy green leek and pea pasta",
+      "web": "https://www.pickuplimes.com/recipe/creamy-green-leek-pea-pasta-52",
+      "description": "This creamy and delicious green pasta doesn't take much effort to whip together",
+      "ingredients": [
+        "garlic",
+        "leaks",
+        "frozen peas",
+        "fusilli pasta",
+        "soy cooking cream"
+      ],
+      "method": "Boil pasta to package instructions. Meanwhile cut 2 leaks in julienne and add to a frying pan with the minced garlic.",
+      "url": "https://cdn.pickuplimes.com/cache/94/14/94144faa18b47b1a3852d6daf1595fa8.jpg"
+    },
+    {
+      "id": 3,
+      "name": "black bean vegan burger",
+      "web": "https://www.bbcgoodfood.com/recipes/black-bean-veggie-burger",
+      "description": "the best veggie burger ever!",
+      "ingredients": [
+        "black beans",
+        "brown rice",
+        "mushrooms",
+        "firm tofu",
+        "hazelnuts"
+      ],
+      "method": "Heat the oil in a large pan and fry the leek, mushrooms, thyme, tofu and kale for about 5 mins. ",
+      "url": "https://images.immediate.co.uk/production/volatile/sites/30/2021/04/Vegan-burger-795ccc3.jpg?quality=90&webp=true&resize=600,545"
+    },
+    {
+      "id": 4,
+      "name": "my favourite vegan pizza",
+      "web": "https://minimalistbaker.com/my-favorite-vegan-pizza/",
+      "description": "Ahh, pizza night. A thing to be cherished.",
+      "ingredients": [
+        "tomato sauce",
+        "vegan parmesan",
+        "mushrooms",
+        "roasted red peppers",
+        "oregano"
+      ],
+      "method": "The BEST vegan pizza made with a garlic-herb crust, simple tomato sauce, TONS of sauteed veggies, and vegan parmesan cheese. Thin crust, tons of flavor, and ridiculously satisfying. ",
+      "url": "https://minimalistbaker.com/wp-content/uploads/2014/06/THEE-BEST-Vegan-Pizza-Sauteed-veggies-simple-tomato-sauce-loads-of-vegan-parmesan-cheese.-Pizza-perfection-.jpg"
+    },
+    {
+      "id": 5,
+      "name": "easy pizzie...",
+      "web": "https://www.veganricha.com/easy-veggie-vegan-pizza/",
+      "description": "EASY VEGGIE VEGAN PIZZA WITH 20 MINUTE CRUST.",
+      "ingredients": [
+        "tomato sauce",
+        "vegan parmesan",
+        "mushrooms",
+        "green peppers",
+        "black olives"
+      ],
+      "method": "Pizza Sauce, Veggies, Mushrooms, Kalamata Olives, Garlic + olive oil for amazing flavor, baked to perfection. Dressed with Vegan Parmesan and fresh basil. ",
+      "url": "https://www.veganricha.com/wp-content/uploads/2016/08/Vegan-veggie-vegan-pizza-veganricha-5769.jpg"
+    },
+    {
+      "id": 6,
+      "name": "vegan pizza",
+      "web": "https://thebananadiaries.com/homemade-vegan-pizza/",
+      "description": "BEST Homemade Easy Vegan Pizza.",
+      "ingredients": [
+        "tomato sauce",
+        "vegan parmesan",
+        "vegan mozzarella",
+        "basil"
+      ],
+      "method": "the ingredients for a pizza dough in general, is so simple.However, since we’re making a vegan pizza, we’ll keep the rest of the ingredients vegan and dairy free as well!",
+      "url": "https://thebananadiaries.com/wp-content/uploads/2021/06/homemade-vegan-pizza-recipe-pizza-dough_0396.jpg"
+    },
+    {
+      "id": 7,
+      "name": "vegan burger",
+      "web": "https://www.veganricha.com/easy-veggie-vegan-pizza/",
+      "description": "The best vegan burger loaded with flavor and suitable for the grill or stovetop. Hearty and satisfying with a delicious texture.",
+      "ingredients": [
+        "walnuts",
+        "chickpeas",
+        "tomato pure",
+        "smoked paprika",
+        "liquid smoke"
+      ],
+      "method": "the texture is meaty, but don’t worry you would never mistake them for actual meat. But they are nice and fat, super hearty and filling, with a mix of spices that creates that wonderful BBQ flavor. ",
+      "url": "https://lovingitvegan.com/wp-content/uploads/2018/09/Vegan-Burger-13.jpg"
+    },
+    {
+      "id": 8,
+      "name": "vegan burger",
+      "web": "https://www.jamieoliver.com/recipes/vegetables-recipes/the-best-vegan-burger/",
+      "description": "Jamie Oliver's ultimate take on veggie burgers",
+      "ingredients": [
+        "chickpeas",
+        "sweetcorn",
+        "tomato pure",
+        "paprika",
+        "ground cumir"
+      ],
+      "method": "Drain the chickpeas and sweetcorn, then tip into a food processor. Pick the coriander leaves, adding half the leaves and all the stalks to the processor. ",
+      "url": "https://img.jamieoliver.com/jamieoliver/recipe-database/oldImages/large/1245_1_1436954815.jpg?tr=w-800,h-1066"
+    },
+    {
+      "id": 9,
+      "name": "vegan burger",
+      "web": "https://www.veganfoodandliving.com/vegan-recipes/20-mouth-watering-vegan-burger-recipes/",
+      "description": "Mouth-watering Quick Vegan Pulled Jackfruit Burger with Barbecue Sauce",
+      "ingredients": [
+        "jackfruit",
+        "lettuce",
+        "apple cider vinegar",
+        "onion",
+        "mustard"
+      ],
+      "method": "Tip the drained jackfruit onto a chopping board. Cut away the central woody core then pull the fruit into thin shreds with two forks. ",
+      "url": "https://www.veganfoodandliving.com/wp-content/uploads/2018/09/Vegan-In-Out-Burgers-1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "vegan salad",
+      "web": "https://www.loveandlemons.com/broccoli-salad/#wprm-recipe-container-43183",
+      "description": "Best Broccoli Salad",
+      "ingredients": [
+        "broccoli",
+        "almonds",
+        "dried cranberries",
+        "red onion",
+        "vinegar"
+      ],
+      "method": "Cut your broccoli small. Because the broccoli stays raw for this dish, you want to make sure the pieces are small enough to become fully coated and soften in the dressing.",
+      "url": "https://cdn.loveandlemons.com/wp-content/uploads/2019/05/broccoli-salad-recipe.jpg"
+    },
+    {
+      "id": 11,
+      "name": "beetroot salad",
+      "web": "https://www.bbcgoodfood.com/recipes/beetroot-lentil-tabbouleh",
+      "description": "Serve this tasty beetroot, chickpea and lentil tabbouleh as a side dish or vegan main. It's healthy, gluten-free, low-calorie and three of your five-a-day.",
+      "ingredients": [
+        "beetroot",
+        "lentils",
+        "radishes",
+        "red apple",
+        "quinoa"
+      ],
+      "method": "Put the herbs, radishes and beetroot in a food processor and blitz until chopped into small pieces.",
+      "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/beetroot-lentil-tabbouleh-4566355.jpg?quality=90&webp=true&resize=440,400"
+    },
+    {
+      "id": 12,
+      "name": "beetroot salad",
+      "web": "https://www.bbcgoodfood.com/recipes/beetroot-lentil-tabbouleh",
+      "description": "Serve this tasty beetroot, chickpea and lentil tabbouleh as a side dish or vegan main. It's healthy, gluten-free, low-calorie and three of your five-a-day.",
+      "ingredients": [
+        "beetroot",
+        "lentils",
+        "radishes",
+        "red apple",
+        "quinoa"
+      ],
+      "method": "Put the herbs, radishes and beetroot in a food processor and blitz until chopped into small pieces.",
+      "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/beetroot-lentil-tabbouleh-4566355.jpg?quality=90&webp=true&resize=440,400"
+    },
+    {
+      "id": 13,
+      "name": "beetroot salad",
+      "web": "https://www.bbcgoodfood.com/recipes/beetroot-lentil-tabbouleh",
+      "description": "Serve this tasty beetroot, chickpea and lentil tabbouleh as a side dish or vegan main. It's healthy, gluten-free, low-calorie and three of your five-a-day.",
+      "ingredients": [
+        "beetroot",
+        "lentils",
+        "radishes",
+        "red apple",
+        "quinoa"
+      ],
+      "method": "Put the herbs, radishes and beetroot in a food processor and blitz until chopped into small pieces.",
+      "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/beetroot-lentil-tabbouleh-4566355.jpg?quality=90&webp=true&resize=440,400"
+    },
+    {
+      "id": 14,
+      "name": "beetroot salad",
+      "web": "https://www.bbcgoodfood.com/recipes/beetroot-lentil-tabbouleh",
+      "description": "Serve this tasty beetroot, chickpea and lentil tabbouleh as a side dish or vegan main. It's healthy, gluten-free, low-calorie and three of your five-a-day.",
+      "ingredients": [
+        "beetroot",
+        "lentils",
+        "radishes",
+        "red apple",
+        "quinoa"
+      ],
+      "method": "Put the herbs, radishes and beetroot in a food processor and blitz until chopped into small pieces.",
+      "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/beetroot-lentil-tabbouleh-4566355.jpg?quality=90&webp=true&resize=440,400"
+    }
+  ]
+}
